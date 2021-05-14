@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @geomaedhros
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on AI Programming
+- 📫 How to reach me: geomaedhros@gmail.com

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor (@geomaedhros)
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python, C++ and Machine Learning
+- 🌱 I’m currently learning Python, Java, C++ and Machine Learning
 - 💞️ I’m looking to collaborate on AI Programming
 - 📫 How to reach me: geomaedhros@gmail.com
